@@ -50,14 +50,14 @@ JOIN subjects s ON s.id = t.subject_id
 WHERE s.name = 'History';
 
 ### Contagem de alunos por turma
-´´´sql
+```sql
 SELECT c.id AS class_number, COUNT(s.id) AS student_number
 FROM classes AS c, students AS s
 WHERE s.class_id = c.id
 GROUP BY c.id;
 
 ### Criação de um View
-´´´sql
+```sql
 CREATE VIEW class_subject_teacher_view AS
 SELECT t.name AS teacher_name, s.name AS subject_name, c.id AS class_id
 FROM teachers_classes tc
