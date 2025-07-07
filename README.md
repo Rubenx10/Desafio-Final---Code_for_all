@@ -83,7 +83,7 @@ JOIN teachers t ON tc.id_teacher = t.id;
 ## 📂 Estrutura de Ficheiros
 
 ```
-📁 school_management_project/
+📁 Desafio.Final-Code_for_all/
 │
 ├─ README.md              # Descrição do projeto
 ├─ projeto_final.sql     # Todas as queries e soluções
