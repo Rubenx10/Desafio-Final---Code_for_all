@@ -1,4 +1,4 @@
-# 🏫 Projeto: Teste final | Code for all
+# 🏫 Projeto: Desafio final | Code for all
 
 ## 📌 Objetivo
 
