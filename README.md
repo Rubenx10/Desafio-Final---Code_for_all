@@ -79,12 +79,6 @@ JOIN teachers t ON tc.id_teacher = t.id;
 
 ---
 
-## 🧰 Ferramentas Utilizadas
-
-- **MySQL Workbench** – criação, execução e teste das queries
-- **SQL (ANSI)** – standard usado no projeto
-
----
 
 ## 📂 Estrutura de Ficheiros
 
