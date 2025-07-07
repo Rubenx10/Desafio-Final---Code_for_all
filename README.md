@@ -86,7 +86,6 @@ JOIN teachers t ON tc.id_teacher = t.id;
 📁 school_management_project/
 │
 ├─ README.md              # Descrição do projeto
-├─ school_schema.sql      # Script com CREATE e INSERTs
-├─ school_queries.sql     # Todas as queries e soluções
+├─ projeto_final.sql     # Todas as queries e soluções
 ```
 
